@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+/**
+ trying my hands 
+ on somthing i just learnt
+ */
+
+int main()
+{
+string name = "kofi"
+printf("what is your name?");
+printf("hi name") 
+
+return 0;
+
+}
